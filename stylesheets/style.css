@@ -68,6 +68,7 @@ a:hover{color:#2eb7c7;text-decoration:none;}
 	margin-left: -960px;
 }
 .banner ul li{
+	background: #f1f1f1;
 	position: absolute;
 	top:0;
 	left: 0;
