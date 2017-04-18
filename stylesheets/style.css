@@ -63,6 +63,7 @@ a:hover{color:#2eb7c7;text-decoration:none;}
     overflow: hidden;
 }
 .banner>div{
+	width: 100%;
 	position: absolute;
 	left: 50%;
 	margin-left: -960px;
@@ -70,8 +71,12 @@ a:hover{color:#2eb7c7;text-decoration:none;}
 .banner ul li{
 	background: #f1f1f1;
 	position: absolute;
+	width: 100%;
 	top:0;
 	left: 0;
+}
+.banner ul li img{
+	width: 100%;
 }
 .banner ol{
 	position: absolute;
